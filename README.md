@@ -225,4 +225,5 @@ OssProjApplication 클래스 내 실행 버튼을 클릭하여 Spring Server를 
 * [프로젝트 제안서 발표자료 바로가기](https://github.com/CSID-DGU/2022-2-OSSProj-KKJ-5/blob/main/kKJ_%EC%A0%9C%EC%95%88%EC%84%9C%EB%B0%9C%ED%91%9C.pptx) </br>
 * [프로젝트 중간보고서 바로가기](https://github.com/CSID-DGU/2022-2-OSSProj-KKJ-5/blob/main/%EC%A4%91%EA%B0%84%EB%B3%B4%EA%B3%A0%EC%84%9C_KKJ.pdf) </br>
 * [프로젝트 중간발표자료 바로가기](https://github.com/CSID-DGU/2022-2-OSSProj-KKJ-5/blob/main/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_KKJ.pdf) </br>
-
+* [프로젝트 최종보고서 바로가기] (https://github.com/CSID-DGU/2022-2-OSSProj-KKJ-5/blob/main/%EC%B5%9C%EC%A2%85%20%EB%B3%B4%EA%B3%A0%EC%84%9C_KKJ.pdf) </br>
+* [프로젝트 최종발표자료 바로가기] (https://github.com/CSID-DGU/2022-2-OSSProj-KKJ-5/blob/main/KKJ_%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf) </br>
