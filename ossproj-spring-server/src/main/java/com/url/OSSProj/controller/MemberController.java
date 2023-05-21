@@ -67,7 +67,6 @@ public class MemberController {
         ArrayList<UrlResponseDto> urls = new ArrayList<>();
 
         List<Url> memberUrls = member.getUrls();
-        log.info("여기까지는 온당!");
         for (Url memberUrl : memberUrls) {
             urls.add(getUrlResponseDto(memberUrl));
             log.info("-----> " + memberUrl.getUrl());
