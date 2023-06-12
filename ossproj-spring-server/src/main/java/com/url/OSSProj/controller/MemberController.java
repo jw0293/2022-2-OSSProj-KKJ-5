@@ -69,7 +69,6 @@ public class MemberController {
         List<Url> memberUrls = member.getUrls();
         for (Url memberUrl : memberUrls) {
             urls.add(getUrlResponseDto(memberUrl));
-            log.info("-----> " + memberUrl.getUrl());
         }
         return urls;
     }
