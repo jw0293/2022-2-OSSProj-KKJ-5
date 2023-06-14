@@ -41,7 +41,6 @@ public class CustomFormLoginSuccessHandler extends SavedRequestAwareAuthenticati
 
         redisUtils.setDataExpire(token.getRefreshToken(), member.getEmail(), tokenUtils.getRefreshTokenValidTime());
 
-        // response.addCookie(accessToken);
         response.addCookie(refreshToken);
         response.setContentType("application/json");
         response.setCharacterEncoding("UTF-8");
