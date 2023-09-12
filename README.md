@@ -216,7 +216,10 @@ OssProjApplication 클래스 내 실행 버튼을 클릭하여 Spring Server를 
 ## 3. Attributes
 * 기존 프로젝트 : https://github.com/DGUFARM </br>
 * 기존 프로젝트 License : MIT License </br>
-* 현재 프로젝트 License : GNU General Public License v3.0 
+* 현재 프로젝트 License : GNU General Public License v3.0
+* [Stomp Protocol 학습 후 정리](https://wonsjung.tistory.com/403)
+* [Redis - Pub/Sub 학습 후 정리](https://wonsjung.tistory.com/405)
+
 
 </br></br>
 
